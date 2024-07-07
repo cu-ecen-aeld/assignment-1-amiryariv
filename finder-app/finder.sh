@@ -1,4 +1,5 @@
 #!/bin/sh
+
 filesdir=$1
 searchstr=$2
 
